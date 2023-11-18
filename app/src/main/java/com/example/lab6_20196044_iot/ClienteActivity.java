@@ -19,7 +19,7 @@ import com.google.firebase.firestore.DocumentSnapshot;
 public class ClienteActivity extends AppCompatActivity {
     private Button cerrar;
 
-
+ //final
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
