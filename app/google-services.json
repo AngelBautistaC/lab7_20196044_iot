@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "117482138651",
+    "project_id": "salon-cab48",
+    "storage_bucket": "salon-cab48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117482138651:android:f0836e496a39f16f1a9cbe",
+        "android_client_info": {
+          "package_name": "com.example.lab6_20196044_iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlDI1WfIqFRR06PwcZw3lKMM5ifTcWisE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
